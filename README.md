@@ -1,2 +1,2 @@
-# nylirk.github.io
+# Nylirk.github.io
 博客
